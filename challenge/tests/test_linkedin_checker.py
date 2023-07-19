@@ -1,5 +1,5 @@
 import pytest
-from linkedin_checker import (get_linkedin_dict,
+from ..linkedin_checker import (get_linkedin_dict,
                                        check_linkedin_feature,
                                        specifications,
                                        specs)
